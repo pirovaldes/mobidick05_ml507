@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/pirovaldes/Data/Documents/apps/MobiDICK_05_ML507/top.ncd
+OUTFILE=/home/pirovaldes/Data/Documents/apps/MobiDICK_05_ML507/top.bit
+FAMILY=Virtex5
+PART=xc5vfx70t-1ff1136
+WORKINGDIR=/home/pirovaldes/Data/Documents/apps/MobiDICK_05_ML507
+LICENSE=ISE
+USER_INFO=176055413_176548049_210548337_162
